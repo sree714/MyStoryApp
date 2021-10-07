@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string-array name="title_story">
+        <item>An Apple</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Butterfly</item>
+        <item>Rose</item>
+        <item>Blue Umbrella</item>
+        <item>Crow</item>
+        <item>Cow</item>
+        <item>Princess September</item>
+        <item>summer</item>
+    </string-array>
+    <string-array name="detail_story">
+        <item>Apple is a sweet and delicious fruit that is very healthy.
+            It is also a good disease-fighter and we can eat it every day.
+            The delicious taste and bright colour of the food make it even more appealing.
+            Moreover, it is a versatile fruit which we can use in many dishes.
+            In an essay on apple, we will learn how many benefits it offers.</item>
+
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Butterfly</item>
+        <item>Rose</item>
+        <item>Blue Umbrella</item>
+        <item>Crow</item>
+        <item>Cow</item>
+        <item>Princess September</item>
+        <item>summer</item>
+
+    </string-array>
+</resources>
